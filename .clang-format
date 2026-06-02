@@ -1,0 +1,43 @@
+Language: Cpp
+BasedOnStyle: LLVM
+
+# Indentation: 4 spaces; no tabs
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+
+# Allman brace style
+BreakBeforeBraces: Allman
+
+# WOLS CA FIX: Force braces for all control statements (if, else, while, for)
+InsertBraces: true
+
+# WOLS CA FIX: Never allow single-line shortcuts without braces
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+AllowShortBlocksOnASingleLine: false
+
+# Formatting rules for switches
+IndentCaseLabels: true
+
+# Keep empty lines to a minimum
+MaxEmptyLinesToKeep: 1
+
+# Pointers alignment
+PointerAlignment: Right
+
+# Spacing Rules
+# WOLS CA FIX: Spaces inside parentheses for extreme readability
+SpacesInParens: Custom
+SpacesInParensOptions:
+  InConditionalStatements: true
+  InCStyleCasts: true
+  InEmptyParentheses: false
+  Other: true
+
+# Alignment Rules
+AlignConsecutiveDeclarations: true
+AlignConsecutiveAssignments: true
+
+# Do not wrap long lines automatically
+ColumnLimit: 0

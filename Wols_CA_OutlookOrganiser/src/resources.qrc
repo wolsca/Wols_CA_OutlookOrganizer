@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>Resource/Wols_CA_OutlookManager_Logo.bmp</file>
+    <file>Resource/Wols_CA_OutlookManager_Busy.gif</file>
+    <file>Resource/Wols_CA_OutlookManager.ico</file>
+</qresource>
+</RCC>

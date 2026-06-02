@@ -1,0 +1,2 @@
+#include <windows.h>
+IDI_ICON1 ICON "Wols_CA_OutlookManager.ico"
