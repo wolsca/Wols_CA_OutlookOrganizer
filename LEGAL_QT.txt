@@ -1,0 +1,25 @@
+==============================================================================
+THIRD-PARTY SOFTWARE LICENSING & ATTRIBUTION
+Product: Wols_CA_OutlookManager
+Licensee: Wols CA (Qt Account: wolsca | Contact: oskar.wols@wolsca.com)
+==============================================================================
+
+This software, Wols_CA_OutlookManager, is built using the Qt Toolkit, 
+a cross-platform C++ application framework.
+
+The Qt Toolkit is Copyright (C) The Qt Company Ltd. and/or its 
+subsidiaries and other contributors. Contact: https://www.qt.io
+
+This application utilizes the Qt Toolkit under a commercial license 
+agreement between The Qt Company and Wols CA. The use, distribution, 
+and integration of the Qt libraries within this Zero-Trust software 
+comply with the stipulations of the Qt Commercial License. 
+All rights reserved by their respective owners.
+
+In compliance with the LGPLv3 requirements:
+1. The Qt libraries are dynamically linked and have not been modified.
+2. A full copy of the LGPLv3 license is included with this installation.
+3. The unmodified source code for the Qt Toolkit is publicly available 
+   and can be downloaded from https://www.qt.io/download or requested 
+   by contacting oskar.wols@wolsca.com.
+==============================================================================
